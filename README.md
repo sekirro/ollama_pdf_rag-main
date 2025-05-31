@@ -6,7 +6,7 @@
 
 1. 进行本地ollama配置，[ollama配置方法](https://blog.csdn.net/2401_85375298/article/details/144883000)
 
-2. 拉取两个模型`deepseek-r1`和`nomic-embed-text`
+2. 用ollama拉取两个模型`deepseek-r1`和`nomic-embed-text`
 3. 运行`main.py`
 
 ## 文件结构
